@@ -1,7 +1,41 @@
-# NewsApp
+<h1 align="start" id="title">News App</h1>
+<img align="center" src="https://github.com/AndroidLord/NewsApp/blob/master/images/newsicon.png" alt="project-image"  width="100" height="100>
+  
+                                                                                                                                          
+<p align="center"></p>
 
-## Overview
-This is a Java-based news application that allows users to read the latest news in six categories: home, sports, health, science, entertainment, and technology. The app fetches data from News API and displays it in a RecyclerView.
+<p id="description">Introducing the News App 
+- your one-stop destination for the latest news from around the world. With a sleek and intuitive design the app features a tab layout that displays news across a wide range of categories including trending sports health technology education science and entertainment. 
+                   
+- Whether you're interested in the latest political developments want to keep up with the latest sports scores or simply want to stay up-to-date on the latest entertainment news the News App has got you covered. 
+                   
+- But that's not all - the app also allows you to customize your news feed so you can easily access the news that matters most to you. Simply select the news categories that interest you the most and the app will display the latest headlines and stories that are tailored to your interests. 
+                   
+- With the News App you'll never miss a beat when it comes to the latest news and information. Download now and start exploring the world of news like never before!</p>
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://github.com/AndroidLord/NewsApp/blob/master/images/home.jpg" alt="project-screenshot" width="300" height="550/">
+
+<img src="https://github.com/AndroidLord/NewsApp/blob/master/images/sports.jpg" alt="project-screenshot" width="300" height="550/">
+
+<img src="https://github.com/AndroidLord/NewsApp/blob/master/images/health.jpg" alt="project-screenshot" width="300" height="550/">
+
+<img src="https://github.com/AndroidLord/NewsApp/blob/master/images/science.jpg" alt="project-screenshot" width="300" height="550/">
+
+<img src="https://github.com/AndroidLord/NewsApp/blob/master/images/entertaiment.jpg" alt="project-screenshot" width="300" height="550/">
+
+<img src="https://github.com/AndroidLord/NewsApp/blob/master/images/technology.jpg" alt="project-screenshot" width="300" height="550/">
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Six categories: home sports health science entertainment and technology
+*   RecyclerView to display news data
+*   Retrofit to fetch data from News API
 
 ## Technology Used
 - Java
@@ -9,11 +43,6 @@ This is a Java-based news application that allows users to read the latest news 
 - XML
 
 - Retrofit
-
-## Features
-- Six categories: home, sports, health, science, entertainment, and technology
-- RecyclerView to display news data
-- Retrofit to fetch data from News API
 
 ## Future scope 
 
