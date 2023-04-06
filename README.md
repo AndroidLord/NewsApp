@@ -14,21 +14,24 @@
 - With the News App you'll never miss a beat when it comes to the latest news and information. Download now and start exploring the world of news like never before!</p>
 
 <h2>Project Screenshots:</h2>
+                   
+<div style="display: flex; overflow-x: scroll; white-space: nowrap; width: 100%; flex-wrap: nowrap;">
+  <img src="https://github.com/AndroidLord/NewsApp/blob/master/images/home.jpg" width="160" height="320">
+  <img src="https://github.com/AndroidLord/NewsApp/blob/master/images/sports.jpg" width="160" height="320">
+  <img src="https://github.com/AndroidLord/NewsApp/blob/master/images/sports.jpg" width="160" height="320">
+  <img src="https://github.com/AndroidLord/NewsApp/blob/master/images/health.jpg" width="160" height="320">
+  <img src="https://github.com/AndroidLord/NewsApp/blob/master/images/science.jpg" width="160" height="320">
+  <img src="https://github.com/AndroidLord/NewsApp/blob/master/images/entertaiment.jpg" width="160" height="320">
+ </div>
 
-<img src="https://github.com/AndroidLord/NewsApp/blob/master/images/home.jpg" alt="project-screenshot" width="300" height="550/">
+### On Clicking News 
+                            
+<div style="display: flex; overflow-x: scroll; white-space: nowrap; width: 100%; flex-wrap: nowrap;">                                                                                                                                                                                 
+<img src="https://github.com/AndroidLord/NewsApp/blob/master/images/webView.jpg" width="160" height="320">                                                                                                                                                                     
+<img src="https://github.com/AndroidLord/NewsApp/blob/master/images/webview2.jpg" width="160" height="320">                                                                                                          
+       </div>                                              
 
-<img src="https://github.com/AndroidLord/NewsApp/blob/master/images/sports.jpg" alt="project-screenshot" width="300" height="550/">
-
-<img src="https://github.com/AndroidLord/NewsApp/blob/master/images/health.jpg" alt="project-screenshot" width="300" height="550/">
-
-<img src="https://github.com/AndroidLord/NewsApp/blob/master/images/science.jpg" alt="project-screenshot" width="300" height="550/">
-
-<img src="https://github.com/AndroidLord/NewsApp/blob/master/images/entertaiment.jpg" alt="project-screenshot" width="300" height="550/">
-
-<img src="https://github.com/AndroidLord/NewsApp/blob/master/images/technology.jpg" alt="project-screenshot" width="300" height="550/">
-
-  
-  
+                                                                                                          
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
